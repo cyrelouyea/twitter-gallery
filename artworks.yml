@@ -1,0 +1,21 @@
+artworks:
+  - title: Remilia Scarlet
+    description: "Day 9: Remilia (110min)"
+    image_link: https://pbs.twimg.com/media/Et-w5vzXAAA_Lbj?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1360000407162994691
+    date: 2021-02-11T23:58:00.0Z
+    duration: 6600 
+    tags:
+      - EoSD
+      - Touhou
+      - 1h
+  - title: Flandre Scarlet
+    description: "Day 10: Flandre (100min)"
+    image_link: https://pbs.twimg.com/media/EuEGp5EXcAA0uZZ?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1360375990153838598
+    date: 2021-02-13T00:51:00.0Z
+    time: 6000
+    tags:
+      - EoSD
+      - Touhou
+      - 1h
