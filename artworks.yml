@@ -1,4 +1,81 @@
 artworks:
+  - title: Pumpino sketch for mod application
+    description: "Here's my @Pumpiino sketch for my mod application!"
+    image_link: https://pbs.twimg.com/media/EtQMDDaXMAMf_OE?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1356723102256881664
+    date: 2021-02-02T22:56:00.0Z
+    duration: 3600
+    tags: []
+  - title: Daiyousei
+    description: "Day 2: Daiyousei (80 min)"
+    image_link: https://pbs.twimg.com/media/EtVHoBqXYAkGmEA?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1357069641177300992
+    date: 2021-02-03T21:53:00.0Z
+    duration: 4800
+    tags:
+      - EoSD
+      - Touhou
+      - 1h
+  - title: Daiyousei
+    description: "Day 2: Daiyousei (80 min)"
+    image_link: https://pbs.twimg.com/media/EtVHoBqXYAkGmEA?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1357069641177300992
+    date: 2021-02-03T21:53:00.0Z
+    duration: 4800
+    tags:
+      - EoSD
+      - Touhou
+      - 1h
+  - title: Cirno
+    description: "Day 3: Cirno (70 min)"
+    image_link: https://pbs.twimg.com/media/EtajJnYXcAQPMKZ?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1357451792855007232
+    date: 2021-02-04T23:11:00.0Z
+    duration: 4200
+    tags:
+      - EoSD
+      - Touhou
+      - 1h
+  - title: Hong Meiling
+    description: "Day 4: Meiling (90 min)"
+    image_link: https://pbs.twimg.com/media/EtgP672XMAEi4g9?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1357852821450809345
+    date: 2021-02-06T01:45:00.0Z
+    duration: 5400
+    tags:
+      - EoSD
+      - Touhou
+      - 1h
+  - title: Koakuma
+    description: "Day 5: Koakuma (60 min)"
+    image_link: https://pbs.twimg.com/media/EtlJ4WNWYAceCos?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1358198053115674625
+    date: 2021-02-07T00:37:00.0Z
+    duration: 3600
+    tags:
+      - EoSD
+      - Touhou
+      - 1h
+  - title: Patchouli Knowledge
+    description: "Day 6 & 7: Patchouli (120 + 60min)"
+    image_link: https://pbs.twimg.com/media/EtvRABYWgAYhn1Y?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1358909563349663752
+    date: 2021-02-08T23:44:00.0Z
+    duration: 10800
+    tags:
+      - EoSD
+      - Touhou
+      - 1h
+  - title: Sakuya Izayoi
+    description: "Day 8: Sakuya (70min)"
+    image_link: https://pbs.twimg.com/media/Et5bgYQXIAUUZkV?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1359624842815950854
+    date: 2021-02-10T23:06:00.0Z
+    duration: 4200
+    tags:
+      - EoSD
+      - Touhou
+      - 1h
   - title: Remilia Scarlet
     description: "Day 9: Remilia (110min)"
     image_link: https://pbs.twimg.com/media/Et-w5vzXAAA_Lbj?format=jpg
