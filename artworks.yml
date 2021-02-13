@@ -1,4 +1,14 @@
 artworks:
+  - title: Rumia
+    description: "Day 1: Rumia (100min)"
+    image_link: https://pbs.twimg.com/media/EtLO1NVXEAMZBBM?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1356374457842065410
+    date: 2021-02-01T23:50:00.0Z
+    duration: 6000
+    tags: 
+      - EoSD
+      - Touhou
+      - 1h
   - title: Pumpino sketch for mod application
     description: "Here's my @Pumpiino sketch for my mod application!"
     image_link: https://pbs.twimg.com/media/EtQMDDaXMAMf_OE?format=jpg
@@ -6,16 +16,6 @@ artworks:
     date: 2021-02-02T22:56:00.0Z
     duration: 3600
     tags: []
-  - title: Daiyousei
-    description: "Day 2: Daiyousei (80 min)"
-    image_link: https://pbs.twimg.com/media/EtVHoBqXYAkGmEA?format=jpg
-    twitter_link: https://twitter.com/cyrelouyea/status/1357069641177300992
-    date: 2021-02-03T21:53:00.0Z
-    duration: 4800
-    tags:
-      - EoSD
-      - Touhou
-      - 1h
   - title: Daiyousei
     description: "Day 2: Daiyousei (80 min)"
     image_link: https://pbs.twimg.com/media/EtVHoBqXYAkGmEA?format=jpg
