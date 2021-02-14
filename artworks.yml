@@ -17,6 +17,7 @@ artworks:
     date: 2021-02-02T22:56:00.0Z
     duration: 3600
     tags:
+      - vtuber
       - pumpino
       - 1h
   - title: Daiyousei
@@ -112,8 +113,20 @@ artworks:
     date: 2021-02-14T08:13:00.0Z
     duration: 21600
     tags: 
+      - vtuber
       - megbert
       - kuakalakka
       - pumpino
       - ifeltieyeld
       - valentine
+  - title: Letty Whiterock
+    description: "Day 11: Letty (40min)"
+    image_link: https://pbs.twimg.com/media/EuK1BbWXcAALVrK?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1361082274100490240
+    date: 2021-02-14T23:37:00.0Z
+    duration: 2400
+    tags: 
+      - pcb
+      - touhou
+      - 1h
+      - letty whiterock
