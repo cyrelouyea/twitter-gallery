@@ -6,16 +6,18 @@ artworks:
     date: 2021-02-01T23:50:00.0Z
     duration: 6000
     tags: 
-      - EoSD
-      - Touhou
+      - eosd
+      - touhou
       - 1h
+      - rumia
   - title: Pumpino sketch for mod application
     description: "Here's my @Pumpiino sketch for my mod application!"
     image_link: https://pbs.twimg.com/media/EtQMDDaXMAMf_OE?format=jpg
     twitter_link: https://twitter.com/cyrelouyea/status/1356723102256881664
     date: 2021-02-02T22:56:00.0Z
     duration: 3600
-    tags: []
+    tags:
+      - pumpino
   - title: Daiyousei
     description: "Day 2: Daiyousei (80 min)"
     image_link: https://pbs.twimg.com/media/EtVHoBqXYAkGmEA?format=jpg
@@ -23,9 +25,10 @@ artworks:
     date: 2021-02-03T21:53:00.0Z
     duration: 4800
     tags:
-      - EoSD
-      - Touhou
+      - eosd
+      - touhou
       - 1h
+      - daiyousei
   - title: Cirno
     description: "Day 3: Cirno (70 min)"
     image_link: https://pbs.twimg.com/media/EtajJnYXcAQPMKZ?format=jpg
@@ -33,9 +36,10 @@ artworks:
     date: 2021-02-04T23:11:00.0Z
     duration: 4200
     tags:
-      - EoSD
-      - Touhou
+      - eosd
+      - touhou
       - 1h
+      - cirno
   - title: Hong Meiling
     description: "Day 4: Meiling (90 min)"
     image_link: https://pbs.twimg.com/media/EtgP672XMAEi4g9?format=jpg
@@ -43,8 +47,8 @@ artworks:
     date: 2021-02-06T01:45:00.0Z
     duration: 5400
     tags:
-      - EoSD
-      - Touhou
+      - eosd
+      - touhou
       - 1h
   - title: Koakuma
     description: "Day 5: Koakuma (60 min)"
@@ -53,9 +57,10 @@ artworks:
     date: 2021-02-07T00:37:00.0Z
     duration: 3600
     tags:
-      - EoSD
-      - Touhou
+      - eosd
+      - touhou
       - 1h
+      - koakuma
   - title: Patchouli Knowledge
     description: "Day 6 & 7: Patchouli (120 + 60min)"
     image_link: https://pbs.twimg.com/media/EtvRABYWgAYhn1Y?format=jpg
@@ -73,9 +78,10 @@ artworks:
     date: 2021-02-10T23:06:00.0Z
     duration: 4200
     tags:
-      - EoSD
-      - Touhou
+      - eosd
+      - touhou
       - 1h
+      - sakuya izayoi
   - title: Remilia Scarlet
     description: "Day 9: Remilia (110min)"
     image_link: https://pbs.twimg.com/media/Et-w5vzXAAA_Lbj?format=jpg
@@ -83,9 +89,10 @@ artworks:
     date: 2021-02-11T23:58:00.0Z
     duration: 6600 
     tags:
-      - EoSD
-      - Touhou
+      - eosd
+      - touhou
       - 1h
+      - remilia scarlet
   - title: Flandre Scarlet
     description: "Day 10: Flandre (100min)"
     image_link: https://pbs.twimg.com/media/EuEGp5EXcAA0uZZ?format=jpg
@@ -93,13 +100,19 @@ artworks:
     date: 2021-02-13T00:51:00.0Z
     time: 6000
     tags:
-      - EoSD
-      - Touhou
+      - eosd
+      - touhou
       - 1h
+      - flandre scarlet
   - title: My Valentine's Gift
     description: "My valentine's gift to @megbertonline, @kuakalakka, @Pumpiino and @IFeltiEyeld!"
     image_link: https://pbs.twimg.com/media/EuK1BbWXcAALVrK?format=jpg
     twitter_link: https://twitter.com/cyrelouyea/status/1360849744000655361
     date: 2021-02-14T08:13:00.0Z
     duration: 36000
-    tags: []
+    tags: 
+      - megbert
+      - kuakalakka
+      - pumpino
+      - ifeltieyeld
+      - valentine
