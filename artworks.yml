@@ -18,6 +18,7 @@ artworks:
     duration: 3600
     tags:
       - pumpino
+      - 1h
   - title: Daiyousei
     description: "Day 2: Daiyousei (80 min)"
     image_link: https://pbs.twimg.com/media/EtVHoBqXYAkGmEA?format=jpg
