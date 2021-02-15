@@ -130,3 +130,14 @@ artworks:
       - touhou
       - 1h
       - letty whiterock
+  - title: Chen
+    description: "Day 12: Chen (60min)"
+    image_link: https://pbs.twimg.com/media/EuTXL-SWQAUGz_y?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1361449599760822274
+    date: 2021-02-15T23:57:00.0Z
+    duration: 3600
+    tags: 
+      - pcb
+      - touhou
+      - 1h
+      - chen
