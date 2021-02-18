@@ -141,12 +141,23 @@ artworks:
       - touhou
       - 1h
       - chen
-  - title: Lunasa Prismriver
-    description: "Day 13: Lunasa (60min)"
+  - title: Lyrica Prismriver
+    description: "Day 13: Lyrica (60min)"
     image_link: https://pbs.twimg.com/media/EuYhYr1WYAAxn0Z?format=jpg
     twitter_link: https://twitter.com/cyrelouyea/status/1361812775442481156
     date: 2021-02-17T00:00:00.0Z
     duration: 3600
+    tags: 
+      - pcb
+      - touhou
+      - 1h
+      - lyrica prismriver
+  - title: Lunasa Prismriver
+    description: "Day 14: Lunasa (100min)"
+    image_link: https://pbs.twimg.com/media/Eud-PnRUYAE6VqC?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1362196888083177473
+    date: 2021-02-18T01:27:00.0Z
+    duration: 6000
     tags: 
       - pcb
       - touhou
