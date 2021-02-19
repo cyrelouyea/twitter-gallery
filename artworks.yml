@@ -163,3 +163,14 @@ artworks:
       - touhou
       - 1h
       - lunasa prismriver
+  - title: Merlin Prismriver
+    description: "Day 15: Merlin (60min)"
+    image_link: https://pbs.twimg.com/media/Eui2VP5WgAEEy6R?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1362539483439239168
+    date: 2021-02-19T00:08:00.0Z
+    duration: 3600
+    tags: 
+      - pcb
+      - touhou
+      - 1h
+      - merlin prismriver
