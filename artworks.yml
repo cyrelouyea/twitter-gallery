@@ -174,3 +174,14 @@ artworks:
       - touhou
       - 1h
       - merlin prismriver
+  - title: Youmu Konpaku
+    description: "Day 16: Youmu (100min)"
+    image_link: https://pbs.twimg.com/media/EuoRBExXYAEaIRh?format=jpg
+    twitter_link: https://twitter.com/cyrelouyea/status/1362920696117153793
+    date: 2021-02-20T01:23:00.0Z
+    duration: 6000
+    tags: 
+      - pcb
+      - touhou
+      - 1h
+      - youmu konpaku
