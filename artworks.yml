@@ -196,3 +196,14 @@ artworks:
       - touhou
       - 1h
       - yuyuko saigyouji
+  - title: Ran Yakumo
+    description: "Day 17: Ran (80min)"
+    image_link: https://pbs.twimg.com/media/EvBxCCPVkAIAqLM?format=png&name=small
+    twitter_link: https://twitter.com/cyrelouyea/status/1364715058618580997
+    date: 2021-02-25T00:13:00.0Z
+    duration: 4800
+    tags: 
+      - pcb
+      - touhou
+      - 1h
+      - ran yakumo
