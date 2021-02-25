@@ -196,9 +196,10 @@ artworks:
       - touhou
       - 1h
       - yuyuko saigyouji
+      - pixel art
   - title: Ran Yakumo
-    description: "Day 17: Ran (80min)"
-    image_link: https://pbs.twimg.com/media/EvBxCCPVkAIAqLM?format=png&name=small
+    description: "Day 18: Ran (80min)"
+    image_link: https://pbs.twimg.com/media/EvBxCCPVkAIAqLM?format=png
     twitter_link: https://twitter.com/cyrelouyea/status/1364715058618580997
     date: 2021-02-25T00:13:00.0Z
     duration: 4800
@@ -207,3 +208,16 @@ artworks:
       - touhou
       - 1h
       - ran yakumo
+      - pixel art
+  - title: Yukari Yakumo
+    description: "Day 19: Ran (70min)"
+    image_link: https://pbs.twimg.com/media/EvG0pYkXcAEBNj1?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1365070819991388161
+    date: 2021-02-25T23:46:00.0Z
+    duration: 4200
+    tags: 
+      - pcb
+      - touhou
+      - 1h
+      - ran yakumo
+      - pixel art
