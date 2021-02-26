@@ -219,5 +219,17 @@ artworks:
       - pcb
       - touhou
       - 1h
-      - ran yakumo
+      - yukari yakumo
+      - pixel art
+  - title: Suika Ibuki
+    description: "Day 20: Suika (80min)"
+    image_link: https://pbs.twimg.com/media/EvMG3SYXEAErzOm?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1365442891175370756
+    date: 2021-02-27T00:25:00.0Z
+    duration: 4800
+    tags: 
+      - iamp
+      - touhou
+      - 1h
+      - suika ibuki
       - pixel art
