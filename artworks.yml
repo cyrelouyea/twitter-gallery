@@ -235,14 +235,35 @@ artworks:
       - pixel art
   - title: Fumo Reimu
     description: "Unconnected Marketeers - Fumo Reimu"
-    image_link: https://pbs.twimg.com/media/EvPvm_HXcAUwzOE?format=png&name=large
+    image_link: https://pbs.twimg.com/media/EvPvm_HXcAUwzOE?format=png
     twitter_link: https://twitter.com/cyrelouyea/status/1365698962825609218
     date: 2021-02-27T17:23:00.0Z
     duration: 7200
     tags: 
       - um
       - touhou
-      - 1h
       - reimu hakurei
       - fumo
       - pixel art
+  - title: Wriggle Nightbug
+    description: "Day 21: Wriggle (70min)"
+    image_link: https://pbs.twimg.com/media/EvWm9EEXEAIz8mL?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1366181684161482755
+    date: 2021-03-01T01:21:00.0Z
+    duration: 4200
+    tags: 
+      - in
+      - touhou
+      - 1h
+      - wriggle nightbug
+      - pixel art
+  - title: Pumpino
+    description: "Day 22: Pumpino (80min)"
+    image_link: https://pbs.twimg.com/media/EvbcyplXMAs3On_?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1366522383394349066
+    date: 2021-03-01T23:54:00.0Z
+    duration: 4800
+    tags: 
+      - vtuber
+      - pumpino
+      - 1h
