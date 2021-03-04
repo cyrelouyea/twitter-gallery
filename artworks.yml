@@ -265,5 +265,17 @@ artworks:
     duration: 4800
     tags: 
       - vtuber
+      - pixel art
       - pumpino
+      - 1h
+  - title: Noxie
+    description: "Day 23: Noxie (120min)"
+    image_link: https://pbs.twimg.com/media/EvlrBWoXUAAVSb3?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1367241908695666688
+    date: 2021-03-03T23:34:00.0Z
+    duration: 7200
+    tags: 
+      - vtuber
+      - pixel art
+      - noxie
       - 1h
