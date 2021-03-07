@@ -10,6 +10,7 @@ artworks:
       - touhou
       - 1h
       - rumia
+    license: cc_by_4_0
   - title: Pumpino sketch for mod application
     description: "Here's my @Pumpiino sketch for my mod application!"
     image_link: https://pbs.twimg.com/media/EtQMDDaXMAMf_OE?format=jpg
@@ -20,12 +21,14 @@ artworks:
       - vtuber
       - pumpino
       - 1h
+    license: cc_by_4_0
   - title: Daiyousei
     description: "Day 2: Daiyousei (80 min)"
     image_link: https://pbs.twimg.com/media/EtVHoBqXYAkGmEA?format=jpg
     twitter_link: https://twitter.com/cyrelouyea/status/1357069641177300992
     date: 2021-02-03T21:53:00.0Z
     duration: 4800
+    license: cc_by_4_0
     tags:
       - eosd
       - touhou
@@ -37,6 +40,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1357451792855007232
     date: 2021-02-04T23:11:00.0Z
     duration: 4200
+    license: cc_by_4_0
     tags:
       - eosd
       - touhou
@@ -48,6 +52,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1357852821450809345
     date: 2021-02-06T01:45:00.0Z
     duration: 5400
+    license: cc_by_4_0
     tags:
       - eosd
       - touhou
@@ -58,6 +63,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1358198053115674625
     date: 2021-02-07T00:37:00.0Z
     duration: 3600
+    license: cc_by_4_0
     tags:
       - eosd
       - touhou
@@ -69,6 +75,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1358909563349663752
     date: 2021-02-08T23:44:00.0Z
     duration: 10800
+    license: cc_by_4_0
     tags:
       - EoSD
       - Touhou
@@ -79,6 +86,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1359624842815950854
     date: 2021-02-10T23:06:00.0Z
     duration: 4200
+    license: cc_by_4_0
     tags:
       - eosd
       - touhou
@@ -90,6 +98,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1360000407162994691
     date: 2021-02-11T23:58:00.0Z
     duration: 6600 
+    license: cc_by_4_0
     tags:
       - eosd
       - touhou
@@ -101,6 +110,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1360375990153838598
     date: 2021-02-13T00:51:00.0Z
     duration: 6000
+    license: cc_by_4_0
     tags:
       - eosd
       - touhou
@@ -112,6 +122,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1360849744000655361
     date: 2021-02-14T08:13:00.0Z
     duration: 21600
+    license: cc_by_4_0
     tags: 
       - vtuber
       - megbert
@@ -125,6 +136,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1361082274100490240
     date: 2021-02-14T23:37:00.0Z
     duration: 2400
+    license: cc_by_4_0
     tags: 
       - pcb
       - touhou
@@ -136,6 +148,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1361449599760822274
     date: 2021-02-15T23:57:00.0Z
     duration: 3600
+    license: cc_by_4_0
     tags: 
       - pcb
       - touhou
@@ -147,6 +160,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1361812775442481156
     date: 2021-02-17T00:00:00.0Z
     duration: 3600
+    license: cc_by_4_0
     tags: 
       - pcb
       - touhou
@@ -158,6 +172,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1362196888083177473
     date: 2021-02-18T01:27:00.0Z
     duration: 6000
+    license: cc_by_4_0
     tags: 
       - pcb
       - touhou
@@ -169,6 +184,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1362539483439239168
     date: 2021-02-19T00:08:00.0Z
     duration: 3600
+    license: cc_by_4_0
     tags: 
       - pcb
       - touhou
@@ -180,6 +196,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1362920696117153793
     date: 2021-02-20T01:23:00.0Z
     duration: 6000
+    license: cc_by_4_0
     tags: 
       - pcb
       - touhou
@@ -191,6 +208,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1364334804414722050
     date: 2021-02-23T23:02:00.0Z
     duration: 4200
+    license: cc_by_4_0
     tags: 
       - pcb
       - touhou
@@ -203,6 +221,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1364715058618580997
     date: 2021-02-25T00:13:00.0Z
     duration: 4800
+    license: cc_by_4_0
     tags: 
       - pcb
       - touhou
@@ -215,6 +234,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1365070819991388161
     date: 2021-02-25T23:46:00.0Z
     duration: 4200
+    license: cc_by_4_0
     tags: 
       - pcb
       - touhou
@@ -227,6 +247,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1365442891175370756
     date: 2021-02-27T00:25:00.0Z
     duration: 4800
+    license: cc_by_4_0
     tags: 
       - iamp
       - touhou
@@ -239,6 +260,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1365698962825609218
     date: 2021-02-27T17:23:00.0Z
     duration: 7200
+    license: cc_by_4_0
     tags: 
       - um
       - touhou
@@ -251,6 +273,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1366181684161482755
     date: 2021-03-01T01:21:00.0Z
     duration: 4200
+    license: cc_by_4_0
     tags: 
       - in
       - touhou
@@ -263,6 +286,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1366522383394349066
     date: 2021-03-01T23:54:00.0Z
     duration: 4800
+    license: cc_by_4_0
     tags: 
       - vtuber
       - pixel art
@@ -274,6 +298,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1367241908695666688
     date: 2021-03-03T23:34:00.0Z
     duration: 7200
+    license: cc_by_4_0
     tags: 
       - vtuber
       - pixel art
@@ -285,6 +310,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1368014048743264262
     date: 2021-03-06T02:42:00.0Z
     duration: 7200
+    license: cc_by_4_0
     tags: 
       - vtuber
       - pixel art
@@ -296,6 +322,7 @@ artworks:
     twitter_link: https://twitter.com/cyrelouyea/status/1368244454579142657
     date: 2021-03-06T17:57:00.0Z
     duration: 7200
+    license: cc_by_4_0
     tags: 
       - vtuber
       - pixel art

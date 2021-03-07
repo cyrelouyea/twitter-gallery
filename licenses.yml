@@ -1,0 +1,8 @@
+licenses:
+  cc_by_4_0: 
+    abbreviation: CC BY 4.0
+    name: Attribution 4.0 International
+    link: "https://creativecommons.org/licenses/by/4.0/"
+    icons: 
+      - "https://mirrors.creativecommons.org/presskit/icons/cc.svg"
+      - "https://mirrors.creativecommons.org/presskit/icons/by.svg"
