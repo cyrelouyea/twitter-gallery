@@ -328,3 +328,15 @@ artworks:
       - pixel art
       - arypie
       - 1h
+  - title: Alyssa
+    description: "Day 26: Alyssa (120min)"
+    image_link: https://pbs.twimg.com/media/Ev6jh2CXMAAH-oO?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1368711395416674313
+    date: 2021-03-08T00:53:00.0Z
+    duration: 7200
+    license: cc_by_4_0
+    tags: 
+      - vtuber
+      - pixel art
+      - alyssa
+      - 1h
