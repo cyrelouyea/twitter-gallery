@@ -340,3 +340,15 @@ artworks:
       - pixel art
       - alyssa
       - 1h
+  - title: Felti
+    description: "Day 27: Felti (120min)"
+    image_link: https://pbs.twimg.com/media/Ev_4DsCXcAAf3WF?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1369086242407714820
+    date: 2021-03-09T01:42:00.0Z
+    duration: 7200
+    license: cc_by_4_0
+    tags: 
+      - vtuber
+      - pixel art
+      - felti
+      - 1h
