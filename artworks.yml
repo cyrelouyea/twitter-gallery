@@ -352,3 +352,15 @@ artworks:
       - pixel art
       - felti
       - 1h
+  - title: Birdmaws
+    description: "Day 28: Birdmaws (100min)"
+    image_link: https://pbs.twimg.com/media/EwKAlcyXcAgmXLL?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1369798804938104833
+    date: 2021-03-11T00:54:00.0Z
+    duration: 6000
+    license: cc_by_4_0
+    tags: 
+      - vtuber
+      - pixel art
+      - birdmaws
+      - 1h
