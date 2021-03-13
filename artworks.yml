@@ -376,3 +376,17 @@ artworks:
       - pixel art
       - fuugul
       - 1h
+  - title: Megbert 
+    description: "Day 30: Megbert (120min)"
+    image_link: https://pbs.twimg.com/media/EwZE9WlWUAIkN_U?format=png
+    twitter_link: https://twitter.com/cyrelouyea/status/1370859514770173956
+    date: 2021-03-13T23:09:00.0Z
+    duration: 7200
+    license: cc_by_4_0
+    tags: 
+      - vtuber
+      - touhou
+      - pixel art
+      - megbert
+      - clownpiece
+      - 1h
